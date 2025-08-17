@@ -513,7 +513,7 @@ new_config = '''config = {
                     "domain": [
                         "youtube.com", "youtu.be",
                         "googlevideo.com",
-                        "ytimg.com",
+                        "ytimg.com", "discord.com", 
                         "gstatic.com",
                         "googleapis.com",
                         "ggpht.com",
